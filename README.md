@@ -6,9 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermehenriqueP&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-🔭 Atualmente Trabalhando como Analista de soluções
-🌱 Aprendendo Javascript/Java
-👯 Procurando uma oportunidade para Software Enginner
+🔭 Atualmente Trabalhando como Analista de soluções<br>
+🌱 Aprendendo Javascript/Java<br>
+👯 Procurando uma oportunidade para Software Enginner<br>
 <div> 
   
 <div style="display: inline_block"><br>
