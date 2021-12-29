@@ -7,7 +7,7 @@
 </div>
 
 🔭 Atualmente Trabalhando como Analista de soluções<br>
-🌱 Aprendendo Javascript/Java<br>
+🌱 Entusiasta do Java<br>
 👯 Procurando uma oportunidade para Software Enginner<br>
 <div> 
   
