@@ -1,6 +1,9 @@
 ### Olá, Meu nome é Guilherme 👋
 
-
+ <div>
+  <a href="https://github.com/GuilhermehenriqueP".
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermehenriqueP&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 🔭 Atualmente Trabalhando como Analista de soluções<br>
 🌱 Entusiasta do Java<br>
